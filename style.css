@@ -1,0 +1,71 @@
+/*body {
+	margin: 0;
+}
+
+.zone{
+	
+	background-image: linear-gradient(to top right, red, #f06d06);
+	
+	font-size: 10em;
+	text-align: center;
+	border: 1px solid #f06d06;
+	border-radius: 10px;
+
+
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	margin-top: 4em;
+}
+
+.btn-primary {
+	color: white;
+	background-color: #0b1740;
+	border-radius: 20px;
+	margin-top: 320px;
+	margin-left: 450px;
+}
+
+.container {
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
+}
+
+.green {
+	grid-column: 1/3;
+	grid-column: span 2;
+	
+}*/
+/*.done {
+  text-decoration: line-through;
+}*/
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
